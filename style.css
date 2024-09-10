@@ -293,6 +293,7 @@ input[name=faq-item]:checked + label span {
   right: 15px;
   top: 15px;
   cursor: pointer;
+  color: #fff;
 }
 .modal-button i {
   font-size: 25px;
